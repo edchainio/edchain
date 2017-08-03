@@ -1,0 +1,69 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "schema:Course",
+  "name":"",
+  "description":"",
+  "about":,
+  "courseCode": "",
+  "publisher": {
+    "@type": "Organization",
+    "name":
+  }
+  
+"isPartOf": {
+    "@type": "CreativeWork",
+    "name": ""
+  }
+ 
+ "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "endDate": "",
+    "startDate": ""
+  }
+
+ "creator": {
+    "@type": "Person",
+    "name": ""
+  }
+
+ "contributor": {
+    "@type": "Organization",
+    "name": ""
+  }
+ 
+"offers":{
+    "@type": "Offer",
+    "price": "",
+    "priceCurrency": ""
+  }
+
+ "timeRequired":{
+    "@type": "Duration",
+    "name": ""
+  }
+
+ "coursePrerequisites":{
+    "@type": "Course",
+    "name": ""
+  }
+
+ "audience":{
+    "@type": "Audience",
+    "name": ""
+  }
+
+ "inLanguage":{
+    "@type": "Language",
+    "name": ""
+  }
+
+ "video":{
+    "@type": "VideoObject",
+    "transcript": ""
+  }
+}
+</script>
+
+
+

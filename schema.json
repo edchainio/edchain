@@ -9,23 +9,28 @@
   "publisher": {
     "@type": "Organization",
     "name":
-  }
+  },
   
 "isPartOf": {
     "@type": "CreativeWork",
     "name": ""
-  }
+  },
  
  "hasCourseInstance": {
     "@type": "CourseInstance",
+    "courseMode": ""
     "endDate": "",
+    "Instructor":{
+    "@type":"Person",
+    "name":"",
+    }
     "startDate": ""
-  }
+  },
 
  "creator": {
     "@type": "Person",
-    "name": ""
-  }
+    "name": ""   
+  },
 
  "contributor": {
     "@type": "Organization",
@@ -41,7 +46,8 @@
  "timeRequired":{
     "@type": "Duration",
     "name": ""
-  }
+  },
+ "copyrightHolder":
 
  "coursePrerequisites":{
     "@type": "Course",

@@ -66,8 +66,10 @@
 
  "video":{
     "@type": "VideoObject",
-    "transcript": ""
-  }
+    "transcript": "",
+    "hash":""
+  },
+"hashCode":"value"
 }
 </script>
 

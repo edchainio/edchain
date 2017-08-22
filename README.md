@@ -23,4 +23,5 @@ edChain uses the IPFS protocol for network connectivity and IPLD for storage. Co
 
 
 **Contributing**
-Would you like to contribute to our codebase ? We welcome all contributions, big or small. Before contributing please read the code of conduct. 
+
+Would you like to contribute to our codebase ? We welcome all contributions, big or small. Before contributing please read the [code of conduct](CODE_OF_CONDUCT.md). 

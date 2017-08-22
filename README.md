@@ -1,7 +1,7 @@
 # edChain
 What is edChain?
 edChain is an open-sourced, decentralized library that allows the sharing of educational content across applications and organizations.  
-[www.edchain.io] (edChain Website)
+edChain Website (http://www.edchain.io)
 
 **Goals:**
 1. Lower Cost: edChain provides a shared, repository for educators to publish content.  No central servers are needed.  Using encryption, content producers are provided full attribution  and monetization across platforms and institutions.  This increases revenues while reducing costs for students

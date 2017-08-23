@@ -21,10 +21,21 @@ edChain uses the IPFS protocol for network connectivity and IPLD for storage. Co
 
 **Installing**
 
-INSTRUCTIONS TO BE ADDED
+We will be using Mediachain initially for the client and nodes. 
+Please follow the directions here to install the node and the client.
+http://docs.mediachain.io/setup/install
+
+**Content**
+
+We are working on taking open source content on the web and putting it on the network. Initially we are trying to upload content from https://ocw.mit.edu/index.htm
+
+
 
 **Contributing**
 
 Would you like to contribute to our codebase ? We welcome all contributions, big or small. Before contributing please read the [code of conduct](CODE_OF_CONDUCT.md). 
 
+**RoadMap**
+
+For dicussing and suggesting features, please go to [Projects](https://github.com/orgs/edchainio/projects)
 

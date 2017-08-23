@@ -27,4 +27,7 @@ INSTRUCTIONS TO BE ADDED
 
 Would you like to contribute to our codebase ? We welcome all contributions, big or small. Before contributing please read the [code of conduct](CODE_OF_CONDUCT.md). 
 
+**RoadMap**
+
+For dicussing and suggesting features, please go to [Projects](https://github.com/orgs/edchainio/projects)
 

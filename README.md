@@ -21,7 +21,9 @@ edChain uses the IPFS protocol for network connectivity and IPLD for storage. Co
 
 **Installing**
 
-INSTRUCTIONS TO BE ADDED
+We will be using Mediachain initially for the client and nodes. 
+
+
 
 **Contributing**
 

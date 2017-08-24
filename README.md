@@ -19,11 +19,6 @@ edChain Website (http://www.edchain.io)
 
 edChain uses the IPFS protocol for network connectivity and IPLD for storage. Content metatags ensure full attribution to the content creator, together with discovery and search, while IPLD data model maintains flexibility for all data types which can be used for creating various components of a course. Initial course organization is handled through core descriptors from schema.org which can be adopted or replaced by course producers. The ethereum platform is used for smart contracts and payments.
 
-**Installing**
-
-We will be using Mediachain initially for the client and nodes. 
-Please follow the directions here to install the node and the client.
-http://docs.mediachain.io/setup/install
 
 **Content**
 

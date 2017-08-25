@@ -28,7 +28,7 @@ We are working on taking open source content on the web and putting it on the ne
 
 **Contributing**
 
-Would you like to contribute to our codebase ? We welcome all contributions, big or small. Before contributing please read the [code of conduct](CODE_OF_CONDUCT.md). Please feel free to reach out to us for any questions!! We look forward to working with you. Contant: edchainio@gmail.com
+Would you like to contribute to our codebase ? We welcome all contributions, big or small. Before contributing please read the [code of conduct](CODE_OF_CONDUCT.md). Please feel free to reach out to us for any questions!! We look forward to working with you. Contact: edchainio@gmail.com
 
 **RoadMap**
 

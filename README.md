@@ -34,3 +34,6 @@ Would you like to contribute to our codebase ? We welcome all contributions, big
 
 For dicussing and suggesting features, please go to [Projects](https://github.com/orgs/edchainio/projects)
 
+TODO:
+[Payments on Edchain](https://github.com/orgs/edchainio/projects/6)
+

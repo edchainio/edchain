@@ -36,17 +36,6 @@ For dicussing and suggesting features, please go to [Projects](https://github.co
 
 
 **Getting Started**
-follow the instructions to install the server node: https://github.com/edchainio/concat
-Configure directory for edchain:
-
-```mcclient config dir /ip4/104.236.125.197/tcp/9000/p2p/QmRXjzUbsTHYa9t4z47B7tR7zsfAKq3iCkvAdN3NKigWPn```
-
-Once setup install:
-
-https://github.com/edchainio/aleph
-
-You should now be able to communicate with the server using mcclient.
-
 
 TODO:
 

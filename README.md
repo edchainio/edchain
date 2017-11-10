@@ -34,3 +34,29 @@ Would you like to contribute to our codebase ? We welcome all contributions, big
 
 For dicussing and suggesting features, please go to [Projects](https://github.com/orgs/edchainio/projects)
 
+
+**Getting Started**
+follow the instructions to install the server node: https://github.com/edchainio/concat
+Configure directory for edchain:
+
+```mcclient config dir /ip4/104.236.125.197/tcp/9000/p2p/QmRXjzUbsTHYa9t4z47B7tR7zsfAKq3iCkvAdN3NKigWPn```
+
+Once setup install:
+
+https://github.com/edchainio/aleph
+
+You should now be able to communicate with the server using mcclient.
+
+
+TODO:
+
+[Payments on Edchain](https://github.com/orgs/edchainio/projects/6)
+
+[User Interface](https://github.com/orgs/edchainio/projects/5)
+
+[edChain Package Creation](https://github.com/orgs/edchainio/projects/4)
+
+[Content Management](https://github.com/orgs/edchainio/projects/2)
+
+[Search](https://github.com/orgs/edchainio/projects/1)
+
